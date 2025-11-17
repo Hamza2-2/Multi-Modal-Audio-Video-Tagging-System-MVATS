@@ -1,1 +1,1 @@
-# Multi-Modal-Audio-Video-Tagging-System-MVATS-
+# Multi-Modal-Audio-Video-Tagging-System-MVATS
